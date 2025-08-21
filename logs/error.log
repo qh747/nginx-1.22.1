@@ -1,0 +1,2 @@
+2025/08/22 00:39:21 [warn] 227607#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx_debug.conf:2
+2025/08/22 00:44:20 [warn] 232756#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/quhan/02_myLibrary/libnginx-1.22.1/conf/nginx_debug.conf:2
