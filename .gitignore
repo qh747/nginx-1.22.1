@@ -1,5 +1,4 @@
 .vscode/
 .cache/
 build/
-objs/
 client_body_temp/
